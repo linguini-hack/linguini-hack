@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.832e2724.css",
-    "main.js": "/static/js/main.7251f77b.js",
-    "index.html": "/index.html",
-    "main.832e2724.css.map": "/static/css/main.832e2724.css.map",
-    "main.7251f77b.js.map": "/static/js/main.7251f77b.js.map"
+    "main.css": "/linguini-hack/static/css/main.832e2724.css",
+    "main.js": "/linguini-hack/static/js/main.7e316f9a.js",
+    "index.html": "/linguini-hack/index.html",
+    "main.832e2724.css.map": "/linguini-hack/static/css/main.832e2724.css.map",
+    "main.7e316f9a.js.map": "/linguini-hack/static/js/main.7e316f9a.js.map"
   },
   "entrypoints": [
     "static/css/main.832e2724.css",
-    "static/js/main.7251f77b.js"
+    "static/js/main.7e316f9a.js"
   ]
 }
